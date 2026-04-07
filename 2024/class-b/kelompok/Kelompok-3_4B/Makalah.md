@@ -19,9 +19,6 @@
   <b>2026<b/>
 </div>
 
-</p>
-
-
 ## 1.2 Rumusan Masalah
 1. Bagaimana pola hubungan antara negara dan teknologi pada rentang tahun 1960-sekarang.
 2. Bagiamana pola hubungan antara swasta dan teknologi pada rentang tahun 1960-sekarang.
