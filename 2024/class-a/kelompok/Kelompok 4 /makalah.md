@@ -12,7 +12,7 @@ Al Muhdil Karim, S.IP, M.Hum.
    
 Kelas 4A
 
-### *PROGRAM STUDI ILMU PERPUSTAKAAN FAKULTAS ADAB DAN HUMANIORA UNIVERSITAS ISLAM NEGERI SYARIF HIDAYATULLAH JAKARTA 2026*
+### PROGRAM STUDI ILMU PERPUSTAKAAN FAKULTAS ADAB DAN HUMANIORA UNIVERSITAS ISLAM NEGERI SYARIF HIDAYATULLAH JAKARTA 2026
 
 ### *Kata Pengantar*
 Assalamu’alaikum Warahmatullahi Wabarakatuh, Segala puji dan syukur kita panjatkan kepada Allah SWT serta shalawat dan salam kami sampaikan kepada tokoh dan teladan kita Nabi Muhammad SAW. Diantara sekian banyak nikmat Allah SWT yang membawa kita dari kegelapan ke dimensi terang yang memberi hikmah dan yang paling bermanfaat bagi seluruh umat manusia, sehingga oleh karenanya kami dapat menyelesaikan tugas Perpustakaan Digital ini dengan baik dan tepat waktu.
