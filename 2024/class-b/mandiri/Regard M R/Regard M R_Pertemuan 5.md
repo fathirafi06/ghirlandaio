@@ -54,3 +54,5 @@ Perpustakaan harus terus beradaptasi dengan perkembangan teknologi dan kebutuhan
 ## Kesimpulan
 5 hukum ini tetap relevan sampai sekarang, tapi definisi dan penerapannya berkembang seiring perubahan zaman, terutama di era digital. Dulu hukum tersebut berfokus pada buku sebagai koleksi utama, tetapi sekarang berkembang menjadi informasi dalam berbagai format. Perpustakaan juga tidak lagi terbatas pada ruang fisik, tetapi sudah merambah ke dunia digital. Dapat disimpulkan bahwa inti dari lima hukum perpustakaan tetap sama, yaitu berorientasi pada kebutuhan pengguna, tetapi cara penerapannya terus menyesuaikan perkembangan teknologi dan informasi.
 
+## Daftar Pustaka
+FIHRIS: Jurnal Ilmu Perpustakaan dan Informasi Islam. (n.d.). Teori S.R. Ranganathan Five Laws of Library Science. Universitas Islam Negeri Sunan Kalijaga.
