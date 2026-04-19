@@ -31,3 +31,7 @@ Kontrol akses juga sering jadi masalah gara-gara keputusan manusia. Sistem tanpa
 
 Terakhir, urusan etika digital tidak boleh dianggap remeh. Tanpa tata krama dalam berteknologi, data rawan disalahgunakan, privasi orang lain dilanggar, bahkan muncul tindakan-tindakan merugikan pihak lain. Itulah sebabnya, keamanan informasi bukan cuma soal perangkat atau jaringan saja, tapi sangat ditentukan juga oleh sikap dan perilaku manusia saat menggunakannya.
 </ol>
+
+## **Kesimpulan**
+
+Manusia jadi faktor penentu dalam keamanan sistem informasi. Kalau mereka abai, kurang paham soal ancaman siber, atau lalai saat mengelola sistem, celah bisa terbuka lebar. Kontrol akses yang longgar dan kurangnya etika digital makin memperjelas kalau sering kali manusia adalah bagian paling rentan dalam sebuah sistem. Jadi, mengandalkan teknologi saja tak cukup. Pengguna harus sadar risiko, ikut pelatihan, dan memikul tanggung jawab supaya sistem informasi benar-benar aman dan berjalan optimal.
