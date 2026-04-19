@@ -7,4 +7,5 @@ Pada dasarnya integritas (integrity) yaitu prinsip yang menjamin bahwa informasi
 Untuk mendukung pengelolaan perpustakaan dan arsip digital yang optimal, beberapa faktor perlu ditingkatkan antara lain pengembangan koleksi digital, peningkatan kualitas layanan, penguatan infrastruktur teknologi, serta peningkatan kompetensi pustakawan dan pengelola arsip.
 ## KESIMPULAN
 Risiko keamanan seperti phishing, ransomware, dan kebocoran data menunjukkan bahwa ancaman siber masih menjadi tantangan utama. Oleh karena itu, diperlukan upaya yang menyeluruh, baik dari sisi teknologi, kebijakan, maupun peningkatan kesadaran sumber daya manusia.
-
+## DAFTAR PUSTAKA
+S. R. Ranganathan. (1931). The five laws of library science. Madras: Madras Library Association.
