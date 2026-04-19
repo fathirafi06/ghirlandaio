@@ -22,3 +22,5 @@ Pelestarian koleksi digital memiliki risiko tinggi yang disebabkan oleh perubaha
 
 ### 6. Masalah Hak Cipta dan Plagiarisme
 Permasalahan hak cipta dalam perpustakaan digital masih menjadi tantangan karena pengawasannya cukup sulit dan belum adanya payung hukum secara resmi. Selain itu, tidak semua pengarang memberikan izin atas digitalisasi karya mereka. Kemudahan akses terhadap koleksi digital juga berpotensi meningkatkan risiko plagiarisme dan penyalahgunaan atau pencurian karya secara daring.
+
+## Kesimpulan
